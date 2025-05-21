@@ -1,5 +1,6 @@
 Jiaxin Ye 1276399
 Exercise2 Overview
+
 The exercise is a React Native mobile app developed using Expo. It functions as a message directory where users can view, add, edit, and delete messages categorized under different directories such as You, Home, Love, Family, etc.
 
 Project Structure
